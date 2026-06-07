@@ -1,0 +1,13 @@
+{
+  "interval": 5000,
+  "banners": [
+    {
+      "image": "https://placehold.co/800x34/1a3a5c/FFD700?text=Test+Banner+1+%E2%80%94+Gunny+Event",
+      "url": "https://gunnypc.vnggames.com"
+    },
+    {
+      "image": "https://placehold.co/800x34/0d2d1a/55FF88?text=Test+Banner+2+%E2%80%94+Nap+Xu",
+      "url": "https://gunnypc.vnggames.com"
+    }
+  ]
+}
