@@ -1,0 +1,1 @@
+# gnpc-launcher-assets
