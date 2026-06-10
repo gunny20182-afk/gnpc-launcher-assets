@@ -1,10 +1,4 @@
 {
   "interval": 8000,
-  "banners": [
-    {
-      "enabled": false,
-      "image": "",
-      "url": ""
-    }
-  ]
+  "banners": []
 }
