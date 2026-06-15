@@ -1,5 +1,16 @@
 {
-  "banner": {},
+  "banner": {
+    "Gunny Ra Sân": {
+      "views": 1,
+      "clicks": 0,
+      "byChannel": {
+        "0": {
+          "views": 1,
+          "clicks": 0
+        }
+      }
+    }
+  },
   "notif": {
     "noti_1781276261196": {
       "views": 2,
@@ -16,5 +27,5 @@
       }
     }
   },
-  "updated_at": "2026-06-15T10:03:23.357Z"
+  "updated_at": "2026-06-15T10:05:23.357Z"
 }
