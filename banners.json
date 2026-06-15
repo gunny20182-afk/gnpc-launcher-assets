@@ -2,10 +2,9 @@
   "interval": 8000,
   "banners": [
     {
-      "enabled": true,
-      "image": "https://placehold.co/1400x72",
-      "url": "https://event.zing.vn/gunny/gunny-ra-san",
-      "event_name": "Gunny Ra Sân"
+      "enabled": false,
+      "image": "",
+      "url": ""
     }
   ]
 }
