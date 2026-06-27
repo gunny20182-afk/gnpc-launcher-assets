@@ -1,12 +1,12 @@
 {
   "banner": {
     "Gunny Ra Sân": {
-      "views": 1,
-      "clicks": 0,
+      "views": 22,
+      "clicks": 1,
       "byChannel": {
         "0": {
-          "views": 1,
-          "clicks": 0
+          "views": 22,
+          "clicks": 1
         }
       }
     }
@@ -27,5 +27,5 @@
       }
     }
   },
-  "updated_at": "2026-06-25T04:18:39.184Z"
+  "updated_at": "2026-06-27T05:54:18.031Z"
 }
