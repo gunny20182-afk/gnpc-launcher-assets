@@ -17,12 +17,12 @@
   },
   "notif": {
     "noti_1781276261196": {
-      "views": 40,
-      "clicks": 3,
+      "views": 41,
+      "clicks": 4,
       "byChannel": {
         "0": {
-          "views": 34,
-          "clicks": 3
+          "views": 35,
+          "clicks": 4
         },
         "11": {
           "views": 1,
@@ -43,5 +43,5 @@
       }
     }
   },
-  "updated_at": "2026-07-02T14:21:16.225Z"
+  "updated_at": "2026-07-02T14:29:16.238Z"
 }
