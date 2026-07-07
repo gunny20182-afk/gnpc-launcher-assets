@@ -2,7 +2,7 @@
   "interval": 8000,
   "banners": [
     {
-      "enabled": true,
+      "enabled": false,
       "image": "https://img.zing.vn/upload/gn/source/launcherv4/gunny-ra-san.jpg",
       "url": "https://event.zing.vn/gunny/gunny-ra-san",
       "event_name": "Gunny Ra Sân",
