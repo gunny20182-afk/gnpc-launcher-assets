@@ -67,12 +67,12 @@
       }
     },
     "noti_1783686753790": {
-      "views": 726,
-      "clicks": 11,
+      "views": 733,
+      "clicks": 12,
       "byChannel": {
         "0": {
-          "views": 442,
-          "clicks": 9
+          "views": 448,
+          "clicks": 10
         },
         "9": {
           "views": 2,
@@ -87,7 +87,7 @@
           "clicks": 1
         },
         "14": {
-          "views": 42,
+          "views": 43,
           "clicks": 0
         },
         "15": {
@@ -101,5 +101,5 @@
       }
     }
   },
-  "updated_at": "2026-07-10T14:41:29.788Z"
+  "updated_at": "2026-07-10T14:43:29.793Z"
 }
