@@ -10,7 +10,7 @@
       "end": "2026-07-07T23:59"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "image": "https://img.zing.vn/upload/gn/source/launcherv4/1000x60.png",
       "url": "https://event.zing.vn/gunny/san-pet-chi-ton-thang-7/",
       "event_name": "Săn PET Chí Tôn T7",
