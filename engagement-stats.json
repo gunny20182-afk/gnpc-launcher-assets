@@ -39,11 +39,11 @@
       }
     },
     "Săn PET Chí Tôn T7": {
-      "views": 30541,
+      "views": 30552,
       "clicks": 218,
       "byChannel": {
         "0": {
-          "views": 22207,
+          "views": 22209,
           "clicks": 151
         },
         "8": {
@@ -55,19 +55,19 @@
           "clicks": 0
         },
         "11": {
-          "views": 3118,
+          "views": 3119,
           "clicks": 26
         },
         "13": {
-          "views": 847,
+          "views": 848,
           "clicks": 3
         },
         "14": {
-          "views": 1257,
+          "views": 1258,
           "clicks": 13
         },
         "15": {
-          "views": 2316,
+          "views": 2322,
           "clicks": 23
         },
         "16": {
@@ -143,5 +143,5 @@
       }
     }
   },
-  "updated_at": "2026-08-01T05:14:42.793Z"
+  "updated_at": "2026-08-01T05:16:42.795Z"
 }
