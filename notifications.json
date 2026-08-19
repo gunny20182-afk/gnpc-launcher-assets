@@ -5,9 +5,10 @@
     "body": "Diễn Võ (Giải Chiến Thần) đang diễn ra, Chiến ngay!",
     "enabled": true,
     "url": "id-levelup.gn.zing.vn/server-game",
-    "start": "2026-07-10T00:00",
-    "end": "2026-07-12T12:00",
+    "start": "2026-08-19T00:00",
+    "end": "2026-08-31T12:00",
     "hour_start": 21,
-    "hour_end": 23
+    "hour_end": 23,
+    "min_inactive_days": 2
   }
 ]
