@@ -109,11 +109,11 @@
       }
     },
     "noti_1783686753790": {
-      "views": 2339,
+      "views": 2363,
       "clicks": 58,
       "byChannel": {
         "0": {
-          "views": 1304,
+          "views": 1313,
           "clicks": 39
         },
         "9": {
@@ -121,15 +121,15 @@
           "clicks": 0
         },
         "11": {
-          "views": 439,
+          "views": 441,
           "clicks": 11
         },
         "13": {
-          "views": 189,
+          "views": 194,
           "clicks": 5
         },
         "14": {
-          "views": 131,
+          "views": 137,
           "clicks": 2
         },
         "15": {
@@ -137,11 +137,11 @@
           "clicks": 1
         },
         "16": {
-          "views": 21,
+          "views": 23,
           "clicks": 0
         }
       }
     }
   },
-  "updated_at": "2026-08-19T12:02:20.339Z"
+  "updated_at": "2026-08-19T12:04:20.341Z"
 }
