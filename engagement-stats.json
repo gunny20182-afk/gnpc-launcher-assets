@@ -81,15 +81,15 @@
       }
     },
     "Săn Pet Chí Tôn T9": {
-      "views": 10804,
+      "views": 10815,
       "clicks": 55,
       "byChannel": {
         "0": {
-          "views": 6562,
+          "views": 6569,
           "clicks": 24
         },
         "11": {
-          "views": 1638,
+          "views": 1639,
           "clicks": 14
         },
         "13": {
@@ -97,11 +97,11 @@
           "clicks": 1
         },
         "14": {
-          "views": 546,
+          "views": 547,
           "clicks": 2
         },
         "15": {
-          "views": 1208,
+          "views": 1210,
           "clicks": 9
         },
         "16": {
@@ -147,11 +147,11 @@
       }
     },
     "noti_1783686753790": {
-      "views": 10424,
+      "views": 10426,
       "clicks": 117,
       "byChannel": {
         "0": {
-          "views": 4670,
+          "views": 4672,
           "clicks": 62
         },
         "8": {
@@ -193,5 +193,5 @@
       }
     }
   },
-  "updated_at": "2026-09-25T14:55:41.219Z"
+  "updated_at": "2026-09-25T14:57:41.221Z"
 }
