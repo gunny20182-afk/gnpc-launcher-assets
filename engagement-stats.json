@@ -81,19 +81,19 @@
       }
     },
     "Săn Pet Chí Tôn T9": {
-      "views": 9379,
+      "views": 9386,
       "clicks": 48,
       "byChannel": {
         "0": {
-          "views": 5716,
+          "views": 5718,
           "clicks": 21
         },
         "11": {
-          "views": 1410,
+          "views": 1411,
           "clicks": 11
         },
         "13": {
-          "views": 397,
+          "views": 398,
           "clicks": 1
         },
         "14": {
@@ -101,11 +101,11 @@
           "clicks": 2
         },
         "15": {
-          "views": 1045,
+          "views": 1047,
           "clicks": 8
         },
         "16": {
-          "views": 324,
+          "views": 325,
           "clicks": 4
         },
         "17": {
@@ -193,5 +193,5 @@
       }
     }
   },
-  "updated_at": "2026-09-25T08:47:40.651Z"
+  "updated_at": "2026-09-25T08:49:40.655Z"
 }
