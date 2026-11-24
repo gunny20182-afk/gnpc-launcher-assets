@@ -123,19 +123,19 @@
       }
     },
     "Săn Pet Chí Tôn T11": {
-      "views": 11590,
-      "clicks": 77,
+      "views": 11596,
+      "clicks": 78,
       "byChannel": {
         "0": {
-          "views": 6997,
-          "clicks": 38
+          "views": 7001,
+          "clicks": 39
         },
         "4": {
           "views": 1,
           "clicks": 0
         },
         "11": {
-          "views": 1548,
+          "views": 1549,
           "clicks": 14
         },
         "13": {
@@ -147,7 +147,7 @@
           "clicks": 5
         },
         "15": {
-          "views": 1801,
+          "views": 1802,
           "clicks": 13
         },
         "16": {
@@ -231,5 +231,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T10:40:09.454Z"
+  "updated_at": "2026-11-24T10:42:09.457Z"
 }
